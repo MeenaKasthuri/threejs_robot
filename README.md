@@ -1,4 +1,4 @@
-# Three.js Robot Assignment
+# Three.js Robot
 
 A 3D animated robot character built with Three.js using groups and transformations.
 
